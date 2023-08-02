@@ -28,11 +28,14 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.jpg)
-![Screenshot](./image.png)
+![Screenshot1](image.png) - Screenshot1 of Project
+![Screenshot2](image-1.png) - Screenshot2 of Project
+![Screenshot3](image-2.png) - Screenshot3 of Project
+![Screenshot4](image-3.png) - Screenshot4 of Project
 
 ### Links
 
-- Live Site URL: [Live Server URL](https://prasannapandhare.github.io/Huddle-Landing-Page-with-Alternating-Feature-Blocks-Master.github.io/)
+- Live Site URL: [Live Server URL](https://your-live-site-url.com)
 
 ## My process
 
