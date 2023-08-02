@@ -27,11 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-![Screenshot1](image.png) - Screenshot1 of Project
-![Screenshot2](image-1.png) - Screenshot2 of Project
-![Screenshot3](image-2.png) - Screenshot3 of Project
-![Screenshot4](image-3.png) - Screenshot4 of Project
+![Screenshot1](./screenshot.png) - Screenshot of Project
 
 ### Links
 
